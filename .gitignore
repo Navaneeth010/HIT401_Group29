@@ -1,0 +1,7 @@
+# datasets are not redistributed; outputs are produced by run_experiments.py
+data/
+results/
+*.gz
+*.bin
+__pycache__/
+.ipynb_checkpoints/
